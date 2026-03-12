@@ -1,0 +1,166 @@
+{
+  "alerts": {
+    "avatar-updated": "Avatar updated.",
+    "checking-for-updates": "Checking for updates...",
+    "downloading-updates": "Downloading updates...",
+    "ok": "OK",
+    "password-updated": "Password updated.",
+    "please-select-a-valid-avatar": "Please select a valid avatar.",
+    "please-select-an-avatar-lte-x-mb": "Please select an avatar <= {{ x }}MB.",
+    "profile-updated": "Profile updated.",
+    "reload": "RELOAD",
+    "reload-to-update": "Reload to update.",
+    "signed-out-successfully": "Signed out successfully.",
+    "something-went-wrong": "Something went wrong.",
+    "welcome": "Welcome!",
+    "youre-on-the-latest-version": "You're on the latest version."
+  },
+  "confirmations": {
+    "youll-lose-unsaved-changes-continue": "You'll lose unsaved changes. Continue?"
+  },
+  "constants": {
+    "arabic": "العربية",
+    "automatic": "Automatic",
+    "dark": "Dark",
+    "english": "English",
+    "home": "Home",
+    "light": "Light",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "jet-home-page": {
+    "seo": {
+      "description": "Angular starter-kit for building quality web apps fast. Now with Supabase.",
+      "keywords": "jet",
+      "title": "Jet - Angular starter-kit for building quality web apps fast. Now with Supabase."
+    },
+    "toolbar-title": "Jet"
+  },
+  "jet-message-page": {
+    "click-link-in-email-to-sign-in": "Please click the link in the email to sign in.",
+    "click-link-in-email-to-verify": "Please click the link in the email to verify.",
+    "message": "Message",
+    "not-found": "Not found",
+    "open-home": "Open Home",
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Message" },
+    "sign-in-link-sent": "Sign in link sent",
+    "that-page-doesnt-exist": "That page doesn't exist.",
+    "toolbar-title": "Message",
+    "verification-email-sent": "Verification email sent",
+    "well-email-you": "We'll email you",
+    "well-send-you-a-link": "If we find an account with that email, we'll send you a link you can use to sign in and update your password."
+  },
+  "jet-profile-page": {
+    "avatar": "Avatar",
+    "clear": "Clear",
+    "email": "Email",
+    "full-name": "Full name",
+    "full-name-error-maxlength-x": "Full name is up to {{ x }} characters long",
+    "profile": "Profile",
+    "profile-created-on-x": "Profile created on {{ x }}",
+    "profile-last-updated-on-x": "Profile last updated on {{ x }}",
+    "save": "Save",
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Profile" },
+    "sign-out": "Sign out",
+    "toolbar-title": "Profile",
+    "update-password": "Update password",
+    "username": "Username",
+    "username-error-maxlength-x": "Username is up to {{ x }} characters long",
+    "username-error-minlength-x": "Username is at least {{ x }} characters long",
+    "username-error-pattern": "Username is only a-z, 0-9 and _",
+    "username-error-required": "Username is required",
+    "x-of-y-characters": "{{ x }} of {{ y }} characters"
+  },
+  "jet-reset-password-page": {
+    "clear": "Clear",
+    "email": "Email",
+    "email-error-email": "Enter a valid email",
+    "email-error-required": "Email is required",
+    "reset-password": "Reset password",
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Reset Password" },
+    "sign-in": "Sign in",
+    "sign-up": "Sign up",
+    "toolbar-title": "Reset Password"
+  },
+  "jet-settings-page": {
+    "change-color-scheme": "Change color scheme",
+    "change-language": "Change language",
+    "check-for-updates": "Check for updates",
+    "last-checked-x": "Last checked: {{ x }}",
+    "reload": "Reload",
+    "reload-description": "Preserve settings and reload",
+    "reset": "Reset",
+    "reset-description": "Use default settings and reload",
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Settings" },
+    "toolbar-title": "Settings",
+    "v-x": "v{{ x }}"
+  },
+  "jet-sidenav": { "home": "Home" },
+  "jet-sign-in-page": {
+    "clear": "Clear",
+    "email": "Email",
+    "email-error-email": "Enter a valid email",
+    "email-error-required": "Email is required",
+    "email-sign-in-link": "Email sign in link",
+    "or": "- or -",
+    "password": "Password",
+    "password-error-minlength-x": "Password is at least {{ x }} characters long",
+    "password-error-required": "Password is required",
+    "reset-password": "Reset password",
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Sign In" },
+    "sign-in": "Sign in",
+    "sign-in-to-continue-to-x": "Sign in to continue to {{ x }}",
+    "sign-in-with-google": "Sign in with Google",
+    "sign-up": "Sign up",
+    "toggle-visibility": "Toggle visibility",
+    "toolbar-title": "Sign In"
+  },
+  "jet-sign-out-page": {
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Sign Out" },
+    "toolbar-title": "Sign Out"
+  },
+  "jet-sign-up-page": {
+    "clear": "Clear",
+    "email": "Email",
+    "email-error-email": "Enter a valid email",
+    "email-error-required": "Email is required",
+    "password": "Password",
+    "password-error-minlength-x": "Password is at least {{ x }} characters long",
+    "password-error-required": "Password is required",
+    "reset-password": "Reset password",
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Sign Up" },
+    "sign-in": "Sign in",
+    "sign-up": "Sign up",
+    "toggle-visibility": "Toggle visibility",
+    "toolbar-title": "Sign Up"
+  },
+  "jet-toolbar": {
+    "home": "Home",
+    "loading": "Loading...",
+    "toggle-navigation-menu": "Toggle navigation menu"
+  },
+  "jet-update-password-page": {
+    "confirm-new-password": "Confirm new password",
+    "confirm-new-password-error-minlength-x": "Password is at least {{ x }} characters long",
+    "confirm-new-password-error-mismatch": "Password confirmation doesn't match",
+    "confirm-new-password-error-required": "Password confirmation is required",
+    "email": "Email",
+    "new-password": "New password",
+    "new-password-error-minlength-x": "Password is at least {{ x }} characters long",
+    "new-password-error-required": "Password is required",
+    "save": "Save",
+    "seo": { "description": "Jet.", "keywords": "jet", "title": "Update Password" },
+    "toggle-visibility": "Toggle visibility",
+    "toolbar-title": "Update Password",
+    "update-password": "Update password"
+  },
+  "paginator": {
+    "first-page": "First page",
+    "items-per-page": "Items per page:",
+    "last-page": "Last page",
+    "next-page": "Next page",
+    "page-1-of-1": "Page 1 of 1",
+    "page-x-of-y": "Page {{ x }} of {{ y }}",
+    "previous-page": "Previous page"
+  }
+}
