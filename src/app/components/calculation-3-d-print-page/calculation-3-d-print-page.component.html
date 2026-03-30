@@ -5,6 +5,22 @@
     [seoTitle]="t('<component-selector>.seo.title')"
     [toolbarTitle]="t('<component-selector>.toolbar-title')"
   >
-    Test
+    <mat-form-field>
+      <mat-label>Print time (in minutes)</mat-label>
+      <input
+        matInput
+        type="number"
+        [(ngModel)]="printTime"
+      />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>Filament cost (per kg)</mat-label>
+      <input
+        matInput
+        type="number"
+        [(ngModel)]="costPerKg"
+      />
+    </mat-form-field>
+    <h3>{{ price }}</h3>
   </jet-page>
 </ng-container>
